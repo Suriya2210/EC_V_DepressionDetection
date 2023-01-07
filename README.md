@@ -1,4 +1,4 @@
-# EC_V_DepressionDetection
+# Detecting depression from text
 
 This project is a machine learning model that predicts whether a person is depressed or not based on their written text. The model is trained on a dataset of depression-related texts, and can be used to classify new texts as depressed or non-depressed.
 
